@@ -8,4 +8,3 @@ class Solution:
                 i=nums.index(i)
                 lst=[a, i]
                 return lst
-                
